@@ -91,7 +91,7 @@ export const DeleteProfileButton = styled(RectButton)`
   margin-top: 10px;
   align-self: stretch;
   border-radius: 4px;
-  background: #7159c1;
+  background: #ff0000;
   justify-content: center;
   align-items: center;
   height: 36px;
